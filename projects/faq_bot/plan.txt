@@ -1,7 +1,0 @@
-Project: FAQ Bot MVP
-Goal: Automate answering repetitive customer questions using GPT.
-ROI: Save SMB owners 5–10 hours/month in customer support.
-
-Step 1: Load FAQs from a CSV or JSON file
-Step 2: Use GPT to match questions and provide answers
-Step 3: Return a clean answer in JSON or terminal output
