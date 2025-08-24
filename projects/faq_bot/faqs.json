@@ -4,11 +4,75 @@
     "answer": "We are open from 9 AM to 6 PM, Monday to Friday."
   },
   {
+    "question": "business hours?",
+    "answer": "We are open from 9 AM to 6 PM, Monday to Friday."
+  },
+  {
+    "question": "hours?",
+    "answer": "We are open from 9 AM to 6 PM, Monday to Friday."
+  },
+  {
+    "question": "What are your store hours?",
+    "answer": "We are open from 9 AM to 6 PM, Monday to Friday."
+  },
+  {
+    "question": "What time do you open?",
+    "answer": "We are open from 9 AM to 6 PM, Monday to Friday."
+  },
+  {
+    "question": "What time do you close?",
+    "answer": "Our closing time is 6 PM."
+  },
+  {
+    "question": "Are you open on weekends?",
+    "answer": "No, we are closed on weekends."
+  },
+  {
+    "question": "days open?",
+    "answer": "We are open from 9 AM to 6 PM, Monday to Friday."
+  },
+  {
     "question": "Do you offer delivery?",
     "answer": "Yes, we offer free delivery on orders above $50."
   },
   {
+    "question": "delivery?",
+    "answer": "Yes, we offer free delivery on orders above $50."
+  },
+  {
+    "question": "Is delivery available?",
+    "answer": "Yes, we offer free delivery on orders above $50."
+  },
+  {
+    "question": "What is the delivery fee?",
+    "answer": "Delivery is free for orders over $50. A flat fee of $5 applies to all other orders."
+  },
+  {
+    "question": "delivery cost?",
+    "answer": "Delivery is free for orders over $50. A flat fee of $5 applies to all other orders."
+  },
+  {
+    "question": "How much does it cost?",
+    "answer": "Pricing depends on the product. Please check our website or contact us directly for specific quotes."
+  },
+  {
+    "question": "cost?",
+    "answer": "Pricing depends on the product. Please check our website or contact us directly for specific quotes."
+  },
+  {
+    "question": "price?",
+    "answer": "Pricing depends on the product. Please check our website or contact us directly for specific quotes."
+  },
+  {
+    "question": "What is the price of your services?",
+    "answer": "Pricing depends on the product. Please check our website or contact us directly for specific quotes."
+  },
+  {
     "question": "What is your return policy?",
+    "answer": "We accept returns for a full refund within 30 days of purchase with a valid receipt."
+  },
+  {
+    "question": "return policy?",
     "answer": "We accept returns for a full refund within 30 days of purchase with a valid receipt."
   },
   {
@@ -16,7 +80,15 @@
     "answer": "We accept all major credit cards, PayPal, and Apple Pay."
   },
   {
+    "question": "payment methods?",
+    "answer": "We accept all major credit cards, PayPal, and Apple Pay."
+  },
+  {
     "question": "Do you ship internationally?",
+    "answer": "Currently, we only ship to addresses within the United States and Canada."
+  },
+  {
+    "question": "international shipping?",
     "answer": "Currently, we only ship to addresses within the United States and Canada."
   },
   {
@@ -24,7 +96,19 @@
     "answer": "Standard shipping usually takes 5-7 business days."
   },
   {
+    "question": "shipping time?",
+    "answer": "Standard shipping usually takes 5-7 business days."
+  },
+  {
+    "question": "shipping duration?",
+    "answer": "Standard shipping usually takes 5-7 business days."
+  },
+  {
     "question": "Can I track my order?",
+    "answer": "Yes, you will receive a tracking number via email once your order has shipped."
+  },
+  {
+    "question": "track order?",
     "answer": "Yes, you will receive a tracking number via email once your order has shipped."
   },
   {
@@ -32,7 +116,23 @@
     "answer": "Yes, digital gift cards are available for purchase on our website."
   },
   {
+    "question": "gift cards?",
+    "answer": "Yes, digital gift cards are available for purchase on our website."
+  },
+  {
     "question": "How do I contact customer support?",
+    "answer": "You can reach our support team via email at support@example.com or by phone at (555) 123-4567."
+  },
+  {
+    "question": "contact?",
+    "answer": "You can reach our support team via email at support@example.com or by phone at (555) 123-4567."
+  },
+  {
+    "question": "phone number?",
+    "answer": "You can reach our support team via email at support@example.com or by phone at (555) 123-4567."
+  },
+  {
+    "question": "email?",
     "answer": "You can reach our support team via email at support@example.com or by phone at (555) 123-4567."
   },
   {
@@ -40,7 +140,15 @@
     "answer": "We are committed to sustainability. Our products are made with recycled materials and our packaging is compostable."
   },
   {
+    "question": "eco-friendly?",
+    "answer": "We are committed to sustainability. Our products are made with recycled materials and our packaging is compostable."
+  },
+  {
     "question": "How do I apply for a job?",
+    "answer": "Please send your resume and cover letter to jobs@example.com with the position you are applying for in the subject line."
+  },
+  {
+    "question": "apply for a job?",
     "answer": "Please send your resume and cover letter to jobs@example.com with the position you are applying for in the subject line."
   },
   {
@@ -48,7 +156,19 @@
     "answer": "Our main store is located at 123 Main Street, Anytown, USA."
   },
   {
+    "question": "location?",
+    "answer": "Our main store is located at 123 Main Street, Anytown, USA."
+  },
+  {
+    "question": "store address?",
+    "answer": "Our main store is located at 123 Main Street, Anytown, USA."
+  },
+  {
     "question": "Do you have public restrooms?",
+    "answer": "Yes, our restrooms are located near the back of the store."
+  },
+  {
+    "question": "restrooms?",
     "answer": "Yes, our restrooms are located near the back of the store."
   },
   {
@@ -56,7 +176,15 @@
     "answer": "Yes, please fill out our wholesale inquiry form on our website to receive more information."
   },
   {
+    "question": "wholesale?",
+    "answer": "Yes, please fill out our wholesale inquiry form on our website to receive more information."
+  },
+  {
     "question": "Is your store wheelchair accessible?",
+    "answer": "Yes, our store is fully wheelchair accessible, with ramps and wide aisles."
+  },
+  {
+    "question": "wheelchair accessible?",
     "answer": "Yes, our store is fully wheelchair accessible, with ramps and wide aisles."
   },
   {
@@ -64,7 +192,15 @@
     "answer": "We do not currently offer special orders, but we are always adding new products to our collection."
   },
   {
+    "question": "special order?",
+    "answer": "We do not currently offer special orders, but we are always adding new products to our collection."
+  },
+  {
     "question": "Do you have a loyalty program?",
+    "answer": "Yes, our loyalty program rewards you with points for every purchase, which can be redeemed for discounts."
+  },
+  {
+    "question": "loyalty program?",
     "answer": "Yes, our loyalty program rewards you with points for every purchase, which can be redeemed for discounts."
   },
   {
@@ -72,7 +208,15 @@
     "answer": "Yes, students with a valid student ID can receive a 10% discount on all purchases."
   },
   {
+    "question": "student discount?",
+    "answer": "Yes, students with a valid student ID can receive a 10% discount on all purchases."
+  },
+  {
     "question": "What is your privacy policy?",
+    "answer": "Our privacy policy can be found on our website, detailing how we handle your personal information."
+  },
+  {
+    "question": "privacy policy?",
     "answer": "Our privacy policy can be found on our website, detailing how we handle your personal information."
   },
   {
@@ -80,7 +224,15 @@
     "answer": "Yes, you can sign up for our newsletter on our website to receive updates and special offers."
   },
   {
+    "question": "newsletter?",
+    "answer": "Yes, you can sign up for our newsletter on our website to receive updates and special offers."
+  },
+  {
     "question": "Are your products made in the USA?",
+    "answer": "Some of our products are made in the USA, while others are sourced globally. Check the product description for details."
+  },
+  {
+    "question": "made in the USA?",
     "answer": "Some of our products are made in the USA, while others are sourced globally. Check the product description for details."
   },
   {
@@ -88,7 +240,15 @@
     "answer": "You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom of any of our emails."
   },
   {
+    "question": "unsubscribe?",
+    "answer": "You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom of any of our emails."
+  },
+  {
     "question": "What is the shelf life of your products?",
+    "answer": "Most of our products have a shelf life of 12 months. Please check the 'best by' date on the packaging."
+  },
+  {
+    "question": "shelf life?",
     "answer": "Most of our products have a shelf life of 12 months. Please check the 'best by' date on the packaging."
   },
   {
@@ -96,7 +256,15 @@
     "answer": "Orders can be canceled within 24 hours of being placed. Please contact customer support immediately."
   },
   {
+    "question": "cancel order?",
+    "answer": "Orders can be canceled within 24 hours of being placed. Please contact customer support immediately."
+  },
+  {
     "question": "Do you have a store catalog?",
+    "answer": "We do not have a printed catalog, but our full product line is available on our website."
+  },
+  {
+    "question": "catalog?",
     "answer": "We do not have a printed catalog, but our full product line is available on our website."
   },
   {
@@ -104,7 +272,15 @@
     "answer": "Our holiday hours vary. Please check our website or social media for the most up-to-date schedule."
   },
   {
+    "question": "holiday hours?",
+    "answer": "Our holiday hours vary. Please check our website or social media for the most up-to-date schedule."
+  },
+  {
     "question": "Can I change my shipping address?",
+    "answer": "Please contact customer support as soon as possible to see if your shipping address can be changed before the order ships."
+  },
+  {
+    "question": "change shipping address?",
     "answer": "Please contact customer support as soon as possible to see if your shipping address can be changed before the order ships."
   },
   {
@@ -112,7 +288,15 @@
     "answer": "Yes, our website uses SSL encryption to protect your payment information."
   },
   {
+    "question": "credit card secure?",
+    "answer": "Yes, our website uses SSL encryption to protect your payment information."
+  },
+  {
     "question": "Do you offer workshops or classes?",
+    "answer": "Yes, we periodically offer workshops. Please check our events calendar on the website for upcoming dates."
+  },
+  {
+    "question": "workshops?",
     "answer": "Yes, we periodically offer workshops. Please check our events calendar on the website for upcoming dates."
   },
   {
@@ -120,7 +304,15 @@
     "answer": "To join the waitlist for a sold-out item, click the 'notify me when available' button on the product page."
   },
   {
+    "question": "waitlist?",
+    "answer": "To join the waitlist for a sold-out item, click the 'notify me when available' button on the product page."
+  },
+  {
     "question": "What is your policy on exchanges?",
+    "answer": "We offer exchanges for products of equal value within 30 days of purchase."
+  },
+  {
+    "question": "exchanges?",
     "answer": "We offer exchanges for products of equal value within 30 days of purchase."
   },
   {
@@ -128,7 +320,15 @@
     "answer": "Our in-store inventory may differ from what is available online. Please call ahead to confirm."
   },
   {
+    "question": "in-store availability?",
+    "answer": "Our in-store inventory may differ from what is available online. Please call ahead to confirm."
+  },
+  {
     "question": "Do you sell physical gift cards?",
+    "answer": "We only offer digital gift cards at this time."
+  },
+  {
+    "question": "physical gift cards?",
     "answer": "We only offer digital gift cards at this time."
   },
   {
@@ -136,7 +336,15 @@
     "answer": "Refunds are typically processed within 5-10 business days after we receive your returned item."
   },
   {
+    "question": "refund time?",
+    "answer": "Refunds are typically processed within 5-10 business days after we receive your returned item."
+  },
+  {
     "question": "Can I buy a product with a gift card?",
+    "answer": "Yes, you can use your digital gift card to make purchases on our website."
+  },
+  {
+    "question": "buy with gift card?",
     "answer": "Yes, you can use your digital gift card to make purchases on our website."
   },
   {
@@ -148,7 +356,15 @@
     "answer": "You can leave a review on our Google Business page or on the product pages of our website."
   },
   {
+    "question": "leave a review?",
+    "answer": "You can leave a review on our Google Business page or on the product pages of our website."
+  },
+  {
     "question": "Can I pre-order upcoming products?",
+    "answer": "Yes, pre-order options are available for select new releases. Check the product page for details."
+  },
+  {
+    "question": "pre-order?",
     "answer": "Yes, pre-order options are available for select new releases. Check the product page for details."
   },
   {
@@ -156,7 +372,15 @@
     "answer": "Yes, our blog features articles on our products and industry news. You can find it on our website."
   },
   {
+    "question": "blog?",
+    "answer": "Yes, our blog features articles on our products and industry news. You can find it on our website."
+  },
+  {
     "question": "What are the ingredients in your products?",
+    "answer": "Full ingredient lists are available on each product's page on our website."
+  },
+  {
+    "question": "ingredients?",
     "answer": "Full ingredient lists are available on each product's page on our website."
   },
   {
@@ -164,7 +388,15 @@
     "answer": "Our products may contain traces of nuts as they are produced in a facility that also handles nuts."
   },
   {
+    "question": "nut-free?",
+    "answer": "Our products may contain traces of nuts as they are produced in a facility that also handles nuts."
+  },
+  {
     "question": "Do you offer product consultations?",
+    "answer": "We offer free virtual consultations for product recommendations. You can book an appointment on our website."
+  },
+  {
+    "question": "consultations?",
     "answer": "We offer free virtual consultations for product recommendations. You can book an appointment on our website."
   },
   {
@@ -172,7 +404,15 @@
     "answer": "You can find us on Instagram and Facebook at @exampleco."
   },
   {
+    "question": "social media?",
+    "answer": "You can find us on Instagram and Facebook at @exampleco."
+  },
+  {
     "question": "Is shipping free?",
+    "answer": "We offer free standard shipping on all orders over $75."
+  },
+  {
+    "question": "shipping free?",
     "answer": "We offer free standard shipping on all orders over $75."
   },
   {
@@ -180,7 +420,15 @@
     "answer": "Please email us at support@example.com with details and a screenshot of the issue."
   },
   {
+    "question": "report a bug?",
+    "answer": "Please email us at support@example.com with details and a screenshot of the issue."
+  },
+  {
     "question": "Do you offer catering services?",
+    "answer": "We do not currently offer catering, but we have partnerships with local caterers we can recommend."
+  },
+  {
+    "question": "catering?",
     "answer": "We do not currently offer catering, but we have partnerships with local caterers we can recommend."
   },
   {
@@ -188,7 +436,15 @@
     "answer": "We aim to respond to all emails within 24 business hours."
   },
   {
+    "question": "email response time?",
+    "answer": "We aim to respond to all emails within 24 business hours."
+  },
+  {
     "question": "Can I get a discount code?",
+    "answer": "We send out exclusive discount codes to our newsletter subscribers. Sign up to get the best deals!"
+  },
+  {
+    "question": "discount code?",
     "answer": "We send out exclusive discount codes to our newsletter subscribers. Sign up to get the best deals!"
   },
   {
@@ -196,7 +452,235 @@
     "answer": "Yes, all of our products are lovingly handmade in our local workshop."
   },
   {
+    "question": "handmade?",
+    "answer": "Yes, all of our products are lovingly handmade in our local workshop."
+  },
+  {
     "question": "What is your mission statement?",
+    "answer": "Our mission is to create high-quality, sustainable products that bring joy to our customers."
+  },
+  {
+    "question": "mission?",
+    "answer": "Our mission is to create high-quality, sustainable products that bring joy to our customers."
+  },
+  {
+    "question": "Do you have a newsletter?",
+    "answer": "Yes, you can sign up for our newsletter on our website to receive updates and special offers."
+  },
+  {
+    "question": "newsletter?",
+    "answer": "Yes, you can sign up for our newsletter on our website to receive updates and special offers."
+  },
+  {
+    "question": "What are the ingredients in your products?",
+    "answer": "Full ingredient lists are available on each product's page on our website."
+  },
+  {
+    "question": "ingredients?",
+    "answer": "Full ingredient lists are available on each product's page on our website."
+  },
+  {
+    "question": "Are your products nut-free?",
+    "answer": "Our products may contain traces of nuts as they are produced in a facility that also handles nuts."
+  },
+  {
+    "question": "nut-free?",
+    "answer": "Our products may contain traces of nuts as they are produced in a facility that also handles nuts."
+  },
+  {
+    "question": "What are your holiday hours?",
+    "answer": "Our holiday hours vary. Please check our website or social media for the most up-to-date schedule."
+  },
+  {
+    "question": "holiday hours?",
+    "answer": "Our holiday hours vary. Please check our website or social media for the most up-to-date schedule."
+  },
+  {
+    "question": "How can I change my shipping address?",
+    "answer": "Please contact customer support as soon as possible to see if your shipping address can be changed before the order ships."
+  },
+  {
+    "question": "change shipping address?",
+    "answer": "Please contact customer support as soon as possible to see if your shipping address can be changed before the order ships."
+  },
+  {
+    "question": "Is my credit card information secure?",
+    "answer": "Yes, our website uses SSL encryption to protect your payment information."
+  },
+  {
+    "question": "credit card secure?",
+    "answer": "Yes, our website uses SSL encryption to protect your payment information."
+  },
+  {
+    "question": "Do you offer workshops or classes?",
+    "answer": "Yes, we periodically offer workshops. Please check our events calendar on the website for upcoming dates."
+  },
+  {
+    "question": "workshops?",
+    "answer": "Yes, we periodically offer workshops. Please check our events calendar on the website for upcoming dates."
+  },
+  {
+    "question": "How do I get my name on your waitlist?",
+    "answer": "To join the waitlist for a sold-out item, click the 'notify me when available' button on the product page."
+  },
+  {
+    "question": "waitlist?",
+    "answer": "To join the waitlist for a sold-out item, click the 'notify me when available' button on the product page."
+  },
+  {
+    "question": "What is your policy on exchanges?",
+    "answer": "We offer exchanges for products of equal value within 30 days of purchase."
+  },
+  {
+    "question": "exchanges?",
+    "answer": "We offer exchanges for products of equal value within 30 days of purchase."
+  },
+  {
+    "question": "Are all products shown on the website available in-store?",
+    "answer": "Our in-store inventory may differ from what is available online. Please call ahead to confirm."
+  },
+  {
+    "question": "in-store availability?",
+    "answer": "Our in-store inventory may differ from what is available online. Please call ahead to confirm."
+  },
+  {
+    "question": "Do you sell physical gift cards?",
+    "answer": "We only offer digital gift cards at this time."
+  },
+  {
+    "question": "physical gift cards?",
+    "answer": "We only offer digital gift cards at this time."
+  },
+  {
+    "question": "What is your refund processing time?",
+    "answer": "Refunds are typically processed within 5-10 business days after we receive your returned item."
+  },
+  {
+    "question": "refund time?",
+    "answer": "Refunds are typically processed within 5-10 business days after we receive your returned item."
+  },
+  {
+    "question": "Can I buy a product with a gift card?",
+    "answer": "Yes, you can use your digital gift card to make purchases on our website."
+  },
+  {
+    "question": "buy with gift card?",
+    "answer": "Yes, you can use your digital gift card to make purchases on our website."
+  },
+  {
+    "question": "What is your phone number?",
+    "answer": "You can call us at (555) 123-4567 for assistance."
+  },
+  {
+    "question": "Where can I leave a review?",
+    "answer": "You can leave a review on our Google Business page or on the product pages of our website."
+  },
+  {
+    "question": "leave a review?",
+    "answer": "You can leave a review on our Google Business page or on the product pages of our website."
+  },
+  {
+    "question": "Can I pre-order upcoming products?",
+    "answer": "Yes, pre-order options are available for select new releases. Check the product page for details."
+  },
+  {
+    "question": "pre-order?",
+    "answer": "Yes, pre-order options are available for select new releases. Check the product page for details."
+  },
+  {
+    "question": "Do you have a blog?",
+    "answer": "Yes, our blog features articles on our products and industry news. You can find it on our website."
+  },
+  {
+    "question": "blog?",
+    "answer": "Yes, our blog features articles on our products and industry news. You can find it on our website."
+  },
+  {
+    "question": "What are the ingredients in your products?",
+    "answer": "Full ingredient lists are available on each product's page on our website."
+  },
+  {
+    "question": "ingredients?",
+    "answer": "Full ingredient lists are available on each product's page on our website."
+  },
+  {
+    "question": "Are your products nut-free?",
+    "answer": "Our products may contain traces of nuts as they are produced in a facility that also handles nuts."
+  },
+  {
+    "question": "nut-free?",
+    "answer": "Our products may contain traces of nuts as they are produced in a facility that also handles nuts."
+  },
+  {
+    "question": "Do you offer product consultations?",
+    "answer": "We offer free virtual consultations for product recommendations. You can book an appointment on our website."
+  },
+  {
+    "question": "consultations?",
+    "answer": "We offer free virtual consultations for product recommendations. You can book an appointment on our website."
+  },
+  {
+    "question": "What is your social media handle?",
+    "answer": "You can find us on Instagram and Facebook at @exampleco."
+  },
+  {
+    "question": "social media?",
+    "answer": "You can find us on Instagram and Facebook at @exampleco."
+  },
+  {
+    "question": "Is shipping free?",
+    "answer": "We offer free standard shipping on all orders over $75."
+  },
+  {
+    "question": "shipping free?",
+    "answer": "We offer free standard shipping on all orders over $75."
+  },
+  {
+    "question": "How do I report a bug on your website?",
+    "answer": "Please email us at support@example.com with details and a screenshot of the issue."
+  },
+  {
+    "question": "report a bug?",
+    "answer": "Please email us at support@example.com with details and a screenshot of the issue."
+  },
+  {
+    "question": "Do you offer catering services?",
+    "answer": "We do not currently offer catering, but we have partnerships with local caterers we can recommend."
+  },
+  {
+    "question": "catering?",
+    "answer": "We do not currently offer catering, but we have partnerships with local caterers we can recommend."
+  },
+  {
+    "question": "What is the typical response time for emails?",
+    "answer": "We aim to respond to all emails within 24 business hours."
+  },
+  {
+    "question": "email response time?",
+    "answer": "We aim to respond to all emails within 24 business hours."
+  },
+  {
+    "question": "Can I get a discount code?",
+    "answer": "We send out exclusive discount codes to our newsletter subscribers. Sign up to get the best deals!"
+  },
+  {
+    "question": "discount code?",
+    "answer": "We send out exclusive discount codes to our newsletter subscribers. Sign up to get the best deals!"
+  },
+  {
+    "question": "Are all your products handmade?",
+    "answer": "Yes, all of our products are lovingly handmade in our local workshop."
+  },
+  {
+    "question": "handmade?",
+    "answer": "Yes, all of our products are lovingly handmade in our local workshop."
+  },
+  {
+    "question": "What is your mission statement?",
+    "answer": "Our mission is to create high-quality, sustainable products that bring joy to our customers."
+  },
+  {
+    "question": "mission?",
     "answer": "Our mission is to create high-quality, sustainable products that bring joy to our customers."
   }
 ]
